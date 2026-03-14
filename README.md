@@ -22,5 +22,5 @@ Tenho 20 anos e atuo como Analista, com foco em automação de processos, dashbo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://github-readme-stats.vercel.app/api?username=NatãLuan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
