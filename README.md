@@ -1,4 +1,4 @@
-# Olá, eu sou Natã Luan 👋
+#👨🏽‍💻Natã Luan 
 
 💻 Analista e estudante de ADS  
 🐍 Python | Selenium | Automação | Dashboards | Dados
