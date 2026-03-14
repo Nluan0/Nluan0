@@ -22,6 +22,6 @@ Tenho 20 anos e atuo como Analista, com foco em automação de processos, dashbo
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&locale=pt-br"/>
 
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nataluan/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
 
 </div>
