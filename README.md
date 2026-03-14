@@ -16,4 +16,4 @@ Tenho 20 anos e atuo como Analista, com foco em automação de processos, dashbo
 
 
 ## 📊 ## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataluan&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nluan0&show_icons=true)
