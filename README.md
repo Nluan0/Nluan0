@@ -33,4 +33,4 @@ Tenho 20 anos e atuo como Analista, com foco em automação de processos, dashbo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n.__luan)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree-nluan.vercel.app)
 
-![snake](https://raw.githubusercontent.com/Nluan0/Nluan0/output/github-snake-dark.svg)
+
