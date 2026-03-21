@@ -35,7 +35,6 @@ class NataLuan:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nluan0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nluan0&theme=tokyonight&layout=compact&hide_border=true&langs_count=9"/>
 
 </div>
