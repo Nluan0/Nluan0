@@ -32,3 +32,36 @@ Tenho 20 anos e atuo como Analista, com foco em automação de processos, dashbo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nat%C3%A3-luan-rodrigues-dos-santos-072145306/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n.__luan)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree-nluan.vercel.app)
+
+
+<div align="center">
+
+# Olá, eu sou o Nluan! 👋
+
+### Desenvolvedor Python em evolução 🚀
+
+---
+
+### 🛠️ Tecnologias que uso
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Minhas estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nluan0&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nluan0&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📌 Projetos em destaque
+
+- 🕐 [Relógio Digital](https://github.com/Nluan0/Relogio) — Relógio com interface gráfica em Python
+- 💰 [Automação Financeira](https://github.com/Nluan0/Automacao_financeira) — Automação de finanças
+- 🧮 [Calculadora](https://github.com/Nluan0/Minha_calculadora) — Calculadora em Python
+
+</div>
