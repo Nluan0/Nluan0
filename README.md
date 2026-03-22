@@ -1,29 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=100&lines=Nat%C3%A3+Luan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=PLAYER%3A+NAT%C3%83+LUAN;PRESS+START+TO+CODE+%F0%9F%8E%AE" />
 </div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Analista+%26+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Sempre+evoluindo+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%9A%94%EF%B8%8F+Classe%3A+Python+Developer;%F0%9F%8F%86+Missao%3A+Primeira+vaga+como+dev;%E2%AD%90+Skills%3A+Python+%7C+Selenium+%7C+Dados;%F0%9F%94%A5+Status%3A+Sempre+evoluindo" />
 </div>
 
----
-```python
-class NataLuan:
-    def __init__(self):
-        self.nome        = "Natã Luan"
-        self.idade       = 20
-        self.curso       = "Análise e Desenvolvimento de Sistemas"
-        self.localizacao = "Brasil 🇧🇷"
-        self.foco        = ["Automação", "Dashboards", "Análise de Dados"]
-        self.stack       = ["Python", "Selenium", "JavaScript", "HTML", "CSS", "React", "C"]
-        self.aprendendo  = ["React", "SQL", "APIs REST"]
-        self.objetivo    = "Conseguir minha primeira vaga como dev 🎯"
 
-    def status(self):
-        return "☕ Café + Código = Produtividade"
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=400&lines=class+NataLuan(Developer)%3A;+;++nome++++++++=+'Nat%C3%A3+Luan';++classe++++++=+'Python+Developer+%F0%9F%90%8D';++nivel++++++++=+'Aprendiz+%E2%86%92+J%C3%BAnior+%F0%9F%93%88';++localizacao+=+'Brasil+%F0%9F%87%A7%F0%9F%87%B7';+;++skills+++++=+%5B'Python'%2C+'Selenium'%2C+'JS'%5D;++aprendendo+=+%5B'React'%2C+'SQL'%2C+'APIs'%5D;+;++def+status(self)%3A;++++return+'%F0%9F%94%A5+Online+e+codando...'" />
+</div>
 
-    def contato(self):
-        return "linkedin.com/in/natã-luan"
-```
 
 ---
 
@@ -65,5 +52,5 @@ class NataLuan:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nluan0&color=a855f7&style=flat-square&label=Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Nluan0&color=ffd700&style=flat-square&label=Visitas" />
 </div>
