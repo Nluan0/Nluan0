@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=100&lines=Nat%C3%A3+Luan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=100&lines=Nat%C3%A3+Luan" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Analista+%26+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Sempre+evoluindo+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Analista+%26+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Sempre+evoluindo+%F0%9F%9A%80" />
 </div>
 
 ---
@@ -65,5 +65,5 @@ class NataLuan:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nluan0&color=8a2be2&style=flat-square&label=Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Nluan0&color=a855f7&style=flat-square&label=Visitas" />
 </div>
