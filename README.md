@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=PLAYER%3A+NAT%C3%83+LUAN;PRESS+START+TO+CODE+%F0%9F%8E%AE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=PLAYER%3A+NAT%C3%83+LUAN;PRESS+START+TO+CODE+%F0%9F%8E%AE" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%9A%94%EF%B8%8F+Classe%3A+Python+Developer;%F0%9F%8F%86+Missao%3A+Primeira+vaga+como+dev;%E2%AD%90+Skills%3A+Python+%7C+Selenium+%7C+Dados;%F0%9F%94%A5+Status%3A+Sempre+evoluindo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%9A%94%EF%B8%8F+Classe%3A+Python+Developer;%F0%9F%8F%86+Missao%3A+Primeira+vaga+como+dev;%E2%AD%90+Skills%3A+Python+%7C+Selenium+%7C+Dados;%F0%9F%94%A5+Status%3A+Sempre+evoluindo" />
 </div>
 
 <div align="center">
