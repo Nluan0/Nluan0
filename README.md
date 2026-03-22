@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=Nat%C3%A3%20Luan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20%26%20Estudante%20de%20ADS&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Nat%C3%A3+Luan" />
 </div>
 <div align="center">
 
