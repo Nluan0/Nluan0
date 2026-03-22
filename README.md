@@ -6,11 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%9A%94%EF%B8%8F+Classe%3A+Python+Developer;%F0%9F%8F%86+Missao%3A+Primeira+vaga+como+dev;%E2%AD%90+Skills%3A+Python+%7C+Selenium+%7C+Dados;%F0%9F%94%A5+Status%3A+Sempre+evoluindo" />
 </div>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=400&lines=class+NataLuan(Developer)%3A;+;++nome++++++++=+'Nat%C3%A3+Luan';++classe++++++=+'Python+Developer+%F0%9F%90%8D';++nivel++++++++=+'Aprendiz+%E2%86%92+J%C3%BAnior+%F0%9F%93%88';++localizacao+=+'Brasil+%F0%9F%87%A7%F0%9F%87%B7';+;++skills+++++=+%5B'Python'%2C+'Selenium'%2C+'JS'%5D;++aprendendo+=+%5B'React'%2C+'SQL'%2C+'APIs'%5D;+;++def+status(self)%3A;++++return+'%F0%9F%94%A5+Online+e+codando...'" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=400&lines=class+NataLuan(Developer)%3A;+;++nome++++++++=+'Nat%C3%A3+Luan';++classe++++++=+'Python+Developer+%F0%9F%90%8D';++nivel++++++++=+'Aprendiz+%E2%86%92+J%C3%BAnior+%F0%9F%93%88';++localizacao+=+'Brasil+%F0%9F%87%A7%F0%9F%87%B7';+;++skills+++++=+%5B'Python'%2C+'Selenium'%2C+'JS'%5D;++aprendendo+=+%5B'React'%2C+'SQL'%2C+'APIs'%5D;+;++def+status(self)%3A;++++return+'%F0%9F%94%A5+Online+e+codando...'" />
 </div>
-
 
 ---
 
