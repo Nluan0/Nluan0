@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Nat%C3%A3+Luan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=100&lines=Nat%C3%A3+Luan" />
 </div>
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Analista+%26+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Sempre+evoluindo+%F0%9F%9A%80)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Analista+%26+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Sempre+evoluindo+%F0%9F%9A%80" />
 </div>
 
 ---
@@ -43,9 +41,7 @@ class NataLuan:
 ## 📊 Estatísticas
 
 <div align="center">
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nluan0&theme=tokyonight&layout=compact&hide_border=true&langs_count=9"/>
-
 </div>
 
 ---
@@ -69,7 +65,5 @@ class NataLuan:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nluan0&color=00f7ff&style=flat-square&label=Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Nluan0&color=8a2be2&style=flat-square&label=Visitas" />
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer)
