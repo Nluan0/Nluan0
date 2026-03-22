@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=Nat%C3%A3%20Luan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20%26%20Estudante%20de%20ADS&descAlignY=55&descAlign=50)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=Nat%C3%A3%20Luan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20%26%20Estudante%20de%20ADS&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Analista+%26+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Sempre+evoluindo+%F0%9F%9A%80)
