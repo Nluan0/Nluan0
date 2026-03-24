@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=700&height=340&lines=class+NataLuan(Developer)%3A;+;++nome++++++++=+'Nat%C3%A3+Luan';++classe++++++=+'Python+Developer+%F0%9F%90%8D';%E2%86%92+J%C3%BAnior+%F0%9F%93%88';+%F0%9F%87%A7%F0%9F%87%B7';+;++skills+++++=+%5B'Python'%2C+'Selenium'%2C+'JS'%5D;++aprendendo+=+%5B'React'%2C+'SQL'%2C+'APIs'%5D;+;++def+status(self)%3A;++++return+'%F0%9F%94%A5+Online+e+codando...'" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=700&height=340&lines=class+NataLuan(Developer)%3A;+;++nome++++++++=+'Nat%C3%A3+Luan';++classe++++++=+'Python+Developer+%F0%9F%90%8D';%E2%86%92+Estagiario+%F0%9F%93%88';+%F0%9F%87%A7%F0%9F%87%B7';+;++skills+++++=+%5B'Python'%2C+'Selenium'%2C+'JS'%5D;++aprendendo+=+%5B'React'%2C+'SQL'%2C+'APIs'%5D;+;++def+status(self)%3A;++++return+'%F0%9F%94%A5+Online+e+codando...'" />
 </div>
 
 
